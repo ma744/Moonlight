@@ -2,7 +2,7 @@
 A Dark Theme for IDLE
 
 # How it looks
-![image of example code]()
+![image of example code](https://github.com/ma744/Moonlight/blob/master/example-code.png)
 
 # Installation (for Linux)
 
