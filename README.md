@@ -8,7 +8,7 @@ A Dark Theme for IDLE
 
 1. Download the repository
 
-2. a) Copy the code of 'config-highlight.cfg' to '/home/$USER/.idlerc/config-highlight.cfg'.
+2. a) Copy the code of the file 'config-highlight.cfg' to '/home/$USER/.idlerc/config-highlight.cfg'.
 
    b) If it does not exist, open the terminal and type
    
@@ -19,3 +19,5 @@ A Dark Theme for IDLE
       `nano /home/$USER/.idlerc/config-highlight.cfg`
       
       and copy the code of the downloaded 'config-highlight.cfg' into the file. Save it, close it, and you are ready.
+     
+3. Open IDLE and head to the settings by clicking on 'Options / Configure IDLE', then move to the 'Highlights' tab, choose 'a Custom Theme' and select 'Moonlight-Dark-Theme'.
